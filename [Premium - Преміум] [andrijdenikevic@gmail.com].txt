@@ -1,0 +1,11 @@
+www.netflix.com	TRUE	/	TRUE	1709578442	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	FALSE	1726858542	thx_guid	badd2a854712faeb414ef0ccbac98878
+.netflix.com	FALSE	/	FALSE	1723834617	NetflixId	v%3D2%26ct%3DBQAOAAEBEGzuA6T8eH3UfoCk4LLd_5aB4Exu0wAHip5-o2nrWnLwspdKiHw4MhASUIxhSFwt8FXIfviaiZs3yGhNbjG4Udbd-W0643ekRQYsl2Rt99ZF64yQNIdKyISI0BybpYXZ7QW1umDeFxzx_WPopcafHxwJycywv1QUy0bE7FHbnY76VUu0Adh85uf1PImRA5CI4J_kRfkqMnMOL9G0qx29mFCYbYTf3b5SJHgWSVjA30U1zv7cWun8GhSYyzlm-41HEGVgdQHKkiCwDx3OcnRGWxwsejeSPabBMcrS6oKYxuhkAhjcyXs6msNb4lKuix3_c1hk_kQEmEhFBgFqFPAlMoNjpzXw-GqVpNdHuHF9LJbx6eI77l-zkeiXonnI1sQhKHwigtY_IImipBLsUOtZ1ris11f-_ZWgEx1LtiWRua9PlRvOUap2khK_UB8uVIPGs110M4OPuy31ROn98Rd4Lqr6v8Wmqdk1r5hWEcsnUPMohIcIEt3bpco_akMD6R2CEoiNS6tAJPjb0M_jKCABOfUTKpSYrbC9zOMkuQDRnQkfy2mt1VnMYA-Q49rBIrSG4v-s25QvqLMApdS6mlDqU_2CKuM5os8zB0rluQIrl7Bz0RBBOaW12nsbGV-lboxQwwcj4naSn3aHRYRfwziHciDfDQ..%26bt%3Ddbl%26ch%3DAQEAEAABABRpRhkKiKq4uEoYUZ7RXwkPXqNV5vXBX28.%26mac%3DAQEAEAABABTzK_nQmGqsdWIcvUdYdh1oFg9NcDLyvdY.
+.netflix.com	TRUE	/	TRUE	1723834623	OptanonAlertBoxClosed	2023-08-17T20:57:03.128Z
+.netflix.com	FALSE	/	FALSE	1723834617	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSjVFhI2O-7pEVkDDPsyVgST9jw2WKaK3o.%26dt%3D1692305817528
+.netflix.com	TRUE	/	TRUE	1723834617	nfvdid	BQFmAAEBEDyQ5ofUuc_MVmkqKKXIO65gFuEv6LtCOek304f93ZkskxRXxnvUZcf34Ybrp24LMSmC6x3PNB6eYPWnuMcbyMLQUVFLauvQh6sliJ8Z3_IlWmdwO9oSfgzNJw9joe8IggQFM4R75udCHWOV85rTnTWW
+.netflix.com	TRUE	/	TRUE	1726859064	dsca	customer
+.netflix.com	TRUE	/	TRUE	1723835277	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+17+2023+23%3A07%3A57+GMT%2B0200+(%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%2C+%D0%BB%D0%B5%D1%82%D0%BD%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=dbb572e2-d35f-415f-9229-3a41ea529d32&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=CZ%3B10
+.netflix.com	TRUE	/	TRUE	1700075276	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1700075276	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1700075276	netflix-sans-normal-3-loaded	true

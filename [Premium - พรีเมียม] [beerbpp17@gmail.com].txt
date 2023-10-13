@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1718717116	nfvdid	BQFmAAEBECrrgMxRNqXVP162QTT5UFVg1BevV_Y6Sa0ZvwdGNa7AiT063FfIvN8XQsEIrqyq0i190BgwiK5uVSl8GoGL925IwtNdaEq6KQY__3SLu_z6YTUDtIbytqH1mXS98RozIEVDKrk_sRTTb23VHdfgYsB4
+.netflix.com	TRUE	/	TRUE	0	sawContext	true
+secured.netflix.com	FALSE	/	FALSE	1721741174	thx_guid	cee3163f25abd74e2a91e750de434f28
+.help.netflix.com	TRUE	/	FALSE	0	XSRF-TOKEN	42b93bef-9a36-4bca-ad52-864bf71f55b1
+.netflix.com	TRUE	/	TRUE	1725980675	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+12+2023+00%3A04%3A35+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=675cb1f9-08d5-42a8-bc1d-dc4275cc558e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1702220673	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1702220673	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1702220673	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1702220673	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1726050319	NetflixId	ct%3DBQAOAAEBEAOYEVDNaonnWnkDU4xuNweCYMk2od0vCk6ApNfC0qV-WnvReE3Brr89WCpbGO5ueb_Irv11kxsqKDolhzXMvyEZtaePIH3nYYDDetGMwMJW8JI3IYyp9sRI7KTb_speogsocNhnCMlqI91oR3iKkzVIxzDH0wH1vmcUA1omXTa9niSzzPDbTzPs17XZYo0VDjOYLXJyrndR0fqpskTA-XFoSDOxhXL9DUtPVMizLFAy3f4tpLuBk5Uvvx1D1ujftx7n3SQlTOQLWBd6JHzcj2-ub9MtmT6PFmVwiwWjTdmkFgLaGv9E_Ytg3TaGjMaJG6Nq0LreEIRP1BxbG9PlgjStoh_DRRbqZBJv50iOBgHaIMRRFuiALyD6zy9tYDyoJaHruuv_vVU4OGOg4HzLntbq7HoUJ_A8TuNgI9I7aphAdJQEq1He4V7K1PwveUnAsGtcGpmra5ypVy5l2RobyM-KTwoVkjnmpOWuuW4jSCMJjpjH-7V21w9BRfolRVe2Dh7mxs5uWFQF3uWau2InkPoUeaRgjfzs003cbRwRQxGRiBS9icOw92xwsn1z_2FIr3YjGpUoPxEiuFWNfJfAipf0kpg6hfdTNQ-OPDBqZKl9vgnUMgSboETaK_sqgtWVC9PJOyFPG5jy1xrERSkmLLC6Od4p7hoZ6wRjkRZIkPiOsxG9Ly9WSujxiKu6kklP0wGwaQVrJl4OfyWEIdyx5I_uVTB75EXyLgXGrgmqqg4myxJqDBL9t8AAFjib8wMe4losgkRb2cqtcNMmzMGE-9YAn3W5e8VgooqVd4rbTq8IS2DK5HEAiACJGCqvT-18lMuq%26bt%3Ddbl%26ch%3DAQEAEAABABS3pVNbKC1YEhncsozQEhMo0vGsYZ-car8.%26v%3D2%26mac%3DAQEAEAABABQeY5yuuq5hc0Z8xpBh9Otuf29gaCgHS4I.
+.netflix.com	FALSE	/	FALSE	1726050319	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRbJH1SkXqvU-j5fksrZIYqfkFsZWr4dKE.%26dt%3D1694521519318

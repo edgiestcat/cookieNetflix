@@ -1,0 +1,11 @@
+www.netflix.com	FALSE	/	FALSE	1701165811	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1715421824	nfvdid	BQFmAAEBEGiFe9Y1-UnbncaemwDONxJgRiVv9IrVQAfZSVkONkC8bHwOuGAMgQOkTmc_0ReGNqp2VB1Or2YhqmmQunu0Z6jn-luNX8mFpt-filFrBrTlB9IqqzWIHKm0Y_0cQYANdMc0Fq8eSxfdUol3jwgRFQ2F
+.netflix.com	TRUE	/	FALSE	1725902840	NetflixId	v%3D2%26ct%3DBQAOAAEBENhIBAfBiyhddbPaG85FB3-B0HCWS1K4Nzg-7LfllCw6KhsVlvSqzwtTGLkSop98S6B2vTJtXvjylkZXTDnVqCi8eBWHN3sTV-yMXU6kKfGIlQj75UVZj4ezQ4xOu7ntSCqKK7uIZV4LfMFalUl9bo-UgS12ELdZhVDNU06a5JuunmCbCBVYIIs9jNc3L1ITlx_abAz1OO0kNzcPpBafQ9FOu3YJFIwprCfZ2e3PD5HCOcCzNVvyww75CfNppDsaZzcWo_9tSP2KX-L1TyS-7ru0OXJsFGid31VQrptLrgK0TcFD7Q6KJxRyOxsRMOuS2b_jNWg_IX6wdhSSkHxfPmxpoRgCJR1_EsKu2FrNl4JWxSz7RpbKTAI97U5XmzMWY-EeVKsm2OGO5j7uXyJJHuizdVkCRy5Gq8ltBbJ0kmuO2R_clrd3ajx262us2rksStzAvy5RALElHh2dEzvwegrgyLdrNFSUWmyewiIFirK0-N78h1HXJJ-A-d3R2nyGV0eCgrEV_f-Jw_pmWe25qbNKOUe9a9dNnWqwHzlcaC8afJuTeBoXy3rLZytrLhHvYV1ndI_-5TIXGKFKZo2bY55cnrV1hJbeOrdVnNeQ35gVaSDl2qP7XmaCBaIUiklZ2wtF%26bt%3Ddbl%26ch%3DAQEAEAABABSup9jbFIWVxecGTGKLv9aavQCKfCqEbwM.%26mac%3DAQEAEAABABTwYUSSJ5xmbSl0MO9HsWAupTxpb8OLGJo.
+.netflix.com	TRUE	/	FALSE	1725902843	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+10+2023+19%3A27%3A23+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=1f138342-064c-4c51-8817-7dcd50e7cb9a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1725902840	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQo5Z7fNkMuPDgQR39Vqle03tSoVunLJag.%26dt%3D1694366834657
+.netflix.com	TRUE	/	FALSE	1728926835	dsca	customer
+.netflix.com	TRUE	/	FALSE	1702142842	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1702142842	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1702142842	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1702142842	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1694387980	profilesNewSession	0

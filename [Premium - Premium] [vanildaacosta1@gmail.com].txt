@@ -1,0 +1,12 @@
+www.netflix.com	FALSE	/	FALSE	1705379428	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1722659428	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	17266767377297003	sawContext	true
+.netflix.com	TRUE	/	FALSE	1719635490	nfvdid	BQFmAAEBEHRoltkpSzUMAEH4F8HxpfhgaCp8asBT4D8tAHakVizN7c1d7ZMwFPzWuS9ZQQ5O1Gjd9a_fT9O4QI6z07wKiYesbUkBEXaa8hrDEdKU-IFZCfH3QQxRRDZo7glSh7xT4-gY6BuFF2EePwaqmaKrDNVh
+.netflix.com	TRUE	/	FALSE	1726590581	NetflixId	ct%3DBQAOAAEBEHCsxaNEO0LxF8NZV0UqcVCCMFIhhxTMCLWQKn10hLi0bBNBYp0OEGfX4BMsy_AlSWWiH72OcPnzW_tWvQrPgaEQJMWB_97KQxlEEctGdvJ7iZe8ZgYrQx8oMxNF9KDf5I6fg3GAeVyFx1Oxgrb4pmI8ruDbYJQ9EZUtTdVgNzSLHSvcl_BnK3ELELVXn8YLQtNQhM01CUZMbHkNr0raHEdYBmMpJ1CUCn1hSRukUOgP2vGi62ent3gIKrAtWCaumCCQ-t8hTJC1nZmAR4Dh1by0RJU5IndxB5ez6WANI2UN1HU6pGjeTB6YR7bqqiuN-ApZ5slGimV9f5CF0OkRFVIipT_Iado2zfQcugm8DwedK0EfUfnY-6sw_3bmNCnYpgk_htgfsES00w3xxdIItY2xjwvlMBaa9hWxG-c_Q3CoHfZ6EVAx7wmOJBXdWpIURQoIy6qW1DjHTUZBcpx-rok3nyRakmMsJi4ssDkOeTMG7GhqQIHmQN4UlrlFcigxm8ENwdZTtZPFcMhLB1vCSx2qGnyZsMYpNd6jXkLODciWhloIHOTCufvFbsSRKBgVXln697HCemHGmPJdD4KuyICzK4hUluxE3iLFWdd7LlS-qtQ58pAla069Yy-H-BpUVp1mXRVBvSbYyx1OM1IWereUI7Ka-yVZdGUqTQ2E6vUFvaH8Ld44rcH0ms6YH-Wb2eNMs7xou0h51MS6rlM5grN-4xgAXCS3bejGxJGk2MCYuNFGBZP3kYc0rNrmkgbcx10S%26bt%3Ddbl%26ch%3DAQEAEAABABQ7F-uo4_GE5kMx2IUtfbTz2S66FetfpKw.%26v%3D2%26mac%3DAQEAEAABABRuab5mF1OHaOL80vf9_qz0Fi9-5a95_qk.
+.netflix.com	TRUE	/	FALSE	1726590584	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+18+2023+13%3A29%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=dbd7b6cc-553e-45e0-9a35-6db279c87657&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1726590581	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTf0sjEuluQXuLi7XZFyATkPbVVkO_E_nU.%26dt%3D1695054569771
+.netflix.com	TRUE	/	FALSE	1695065382	flwssn	92eb0fb7-da8a-400a-8fd6-3172af16ad8a
+.netflix.com	TRUE	/	FALSE	1702830582	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1702830582	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1702830582	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1695066891	profilesNewSession	0
